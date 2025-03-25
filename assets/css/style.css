@@ -151,3 +151,12 @@ IDENTIFICA EL TIPO Y TAMAÑO DE DISPOSITIVO
     border-radius: 15px;
     box-shadow: 0 0 2px 0 #009659;
 }
+
+/*FOOTER*/
+footer {
+    background-color: rgb(44, 92, 44);
+    color: white; 
+    text-align: center; 
+    padding: 10px;
+    font-weight: bold;
+}
